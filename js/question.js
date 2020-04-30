@@ -114,9 +114,7 @@ let qdb = [{
         
         <blockquote style="font-size: 0.9em">
         Allah ile beraber başka bir ilâh edinmeyin. Gerçekten ben, size, Allah tarafından gönderilmiş açık bir uyarıcıyım. (Zariyat/51)
-        </blockquote>
-
-        <p>Daha sonra Mekke'nin fethiyle her nasılsa bahsedilen müşrikler iman etmiştir.</p>`
+        </blockquote>`
     },
     {
         "question": "Kur'an'da Allah yanılmıştır.",
