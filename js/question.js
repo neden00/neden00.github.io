@@ -43,10 +43,14 @@ let qdb = [{
     {
         "question": "Kur'an'da zina yasaklanmıştır.",
         "correct": true,
-        "answer": `<p>Kur'an'da zina İsra/32 ile yasaklanmış, Nur/2 ile cezası acımadan 100 sopa vurmak olarak belirlenmiştir. Peki aslında zina ne derece engellenmiştir?</p>
-        <p>1. Zinanın ispatı için dört tane şahit olması gerekmektedir (Nisa/15). Zira Muhammed'in eşi Ayşe'de zina ile suçlanmış ama bu ayet dolayısıyla affedilmiştir. 
-        Peki sizce zina yapan birinin dört adet şahitle yakalanma ihtimali nedir?</p>
-        <p>2. Dört adet eş (Nisa/3), sınırsız cariye (Nisa/3, Nisa/24) ve ücreti ödenme şartıyla geçici nikâh izni (Nisa/24) varken zinadan uzak durun demenin mantığı nedir?</p>
+        "answer": `<p>Kur'an'da zina İsra/32 ile yasaklanmış, Nur/2 ile cezası acımadan 100 sopa vurmak olarak belirlenmiştir. 
+        Peki aslında zina ne derece engellenmiştir?</p>
+
+        <p>1. Zinanın ispatı için dört tane şahit olması gerekmektedir (Nisa/15). Zira Muhammed'in eşi Ayşe'de zina ile suçlanmış ama 
+        bu ayet dolayısıyla affedilmiştir. Peki sizce zina yapan birinin dört adet şahitle yakalanma ihtimali nedir?</p>
+
+        <p>2. Dört adet eş (Nisa/3), sınırsız cariye (Nisa/3, Nisa/24) ve ücreti ödenme şartıyla geçici nikâh izni (Nisa/24) varken 
+        zinadan uzak durun demenin mantığı nedir?</p>
 
         <blockquote style=\"font-size: 0.9em\">
         Sakın zinaya yaklaşmayın; doğrusu bu çirkindir, kötü bir yoldur. (İsra/32)
@@ -74,16 +78,83 @@ let qdb = [{
     {
         "question": "Kur'an'da evrenin genişlediği yazmaktadır.",
         "correct": false,
-        "answer": "<p>BURAYA AÇIKLAMA GELECEK.</p><blockquote style=\"font-size: large !important;\">Burada ayet yer alacak.</blockquote><p>vesaire.</p>"
+        "answer": `
+        <p>Aşağıdaki ayet, modern astronomiyle keşfedilmiş evrenin genişlediği bilgisinin Kur'an'da mevcut olduğunu iddia eder ve bunu bir mucize sayar.</p>
+
+        <blockquote style="font-size: 0.9em">
+        Göğü, gücümüzle Biz kurduk; şüphesiz biz onu genişleticiyiz. (Zariyat/47 Eski Diyanet Meali)
+        Göğü kudretimizle biz kurduk ve şüphesiz bizim (her şeye) gücümüz yeter. (Zariyat/47 Yeni Diyanet Meali)
+        Yeri de biz döşedik. Biz ne güzel döşeyiciyiz.! (Zariyat/48)
+        </blockquote>
+
+        <p>Peki ilk ayet bir mucize ise, ikinci ayette de yeryüzünün genişlediğini söylemiyor mu? Bu argüman karşısında ise diyanet ayetin mealini 
+        tamamen değiştirmiştir.</p>`
     },
     {
         "question": "Kur'an'ın tamamı Allah'ın sözü müdür?.",
         "correct": false,
-        "answer": "<p>BURAYA AÇIKLAMA GELECEK.</p><blockquote style=\"font-size: large !important;\">Burada ayet yer alacak.</blockquote><p>vesaire.</p>"
+        "answer": `
+        <p>Aşağıdaki ayetler üzerinde oynama, kırpma, cımbızlama yoktur. Sizce Allah'ın böyle cümleler kurması mümkün müdür? Diyanet bu ayetleri parantezlerle 
+        kurtarmaya çalışmıştır ancak bizim incelememiz gereken Kur'an'ın kendisidir.</p>
+
+        <blockquote style="font-size: 0.9em">
+        (De ki:) “Şüphesiz ben size O’nun tarafından gönderilmiş bir uyarıcı ve müjdeleyiciyim.” (Hud/2)
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Hakkında ayrılığa düştüğünüz herhangi bir şeyin hükmü Allah’a aittir. İşte bu, Rabbim Allah’tır. Yalnız O’na tevekkül ettim ve 
+        ancak O’na yöneliyorum. (Şura/10)
+        </blockquote>
+        
+        <blockquote style="font-size: 0.9em">
+        Allah ile beraber başka bir ilâh edinmeyin. Gerçekten ben, size, Allah tarafından gönderilmiş açık bir uyarıcıyım. (Zariyat/51)
+        </blockquote>
+
+        <p>Daha sonra Mekke'nin fethiyle her nasılsa bahsedilen müşrikler iman etmiştir.</p>`
     },
     {
         "question": "Kur'an'da Allah yanılmıştır.",
         "correct": true,
-        "answer": "<p>BURAYA AÇIKLAMA GELECEK.</p><blockquote style=\"font-size: large !important;\">Burada ayet yer alacak.</blockquote><p>vesaire.</p>"
+        "answer": `
+        <p>Aşağıdaki ayetlerin ilki Uhud savaşından önce inmiş, önceki kitaplarda olduğu gibi savaşta Allah'ın inanlara yardım edeceğini bildirmiştir. 
+        Bu yardımla 1'e 100 bir oranda kuvvet verildiği belirtilir.</p>
+
+        <blockquote style="font-size: 0.9em">
+        Ey Peygamber! Mü’minleri savaşa teşvik et. Eğer içinizde sabırlı yirmi kişi bulunursa, iki yüz kişiye galip gelirler. Eğer içinizde (sabırlı) 
+        yüz kişi bulunursa, inkâr edenlerden bin kişiye galip gelirler. Çünkü onlar anlamayan bir kavimdir. (Enfal/65)
+        </blockquote>
+
+        <p>Savaş yapılır ve kaybedilir ardından aşağıdaki ayet iner, yeni oran 1'e 2'dir. Peki Allah bu yenilgiyi önceden bilmiyor muydu da bu ayetler indi?</p>
+
+        <blockquote style="font-size: 0.9em">
+        Şimdi ise, Allah yükünüzü hafifletti ve sizde muhakkak bir zaaf olduğunu bildi. Eğer içinizde sabırlı yüz kişi olursa iki yüz kişiye galip gelirler. 
+        Eğer içinizde (sabırlı) bin kişi olursa, Allah’ın izniyle iki bin kişiye galip gelirler. Allah, sabredenlerle beraberdir. (Enfal/66)
+        </blockquote>`
+
+    },
+    {
+        "question": "Kur'an'da herkes eşittir.",
+        "correct": false,
+        "answer": `<p>Alttaki ayetler diyanet çevirisinde "(bir zamanlar)" ile düzeltilmeye çalışılmıştır ancak orjinalinde ve diğer bir çok mealde 
+        böyle bir düzeltme yoktur. Ayrıca birbirinin tamamen aynısı iki ayetin indirilmesinin anlamı nedir? Allah bu ayeti indirdiğini unutmuş mudur?</p>
+
+        <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken alttaki ayetler buna büyük bir tezattır.</p>
+
+        <blockquote style="font-size: 0.9em">
+        Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün kıldığımı hatırlayın. (Bakara/47)
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün tuttuğumu hatırlayın. (Bakara/122)
+        </blockquote>`
+    },
+    {
+        "question": "İslam araştırma, sorgulama dinidir.",
+        "correct": false,
+        "answer": `<p></p>
+
+        <blockquote style="font-size: 0.9em">
+        Hak (ancak) Rabbindendir. Artık, <b>sakın şüpheye düşenlerden olma!</b> (Bakara/147)
+        </blockquote>`
     }
 ]
