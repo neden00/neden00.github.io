@@ -86,7 +86,7 @@ let qdb = [{
         </blockquote>
 
         <blockquote style="font-size: 0.9em">
-        Göğü kudretimizle biz kurduk ve şüphesiz bizim (her şeye) gücümüz yeter. (Zariyat/47 Yeni Diyanet Meali)
+        Göğü kudretimizle biz kurduk ve şüphesiz bizim (her şeye) gücümüz yeter. (Zariyat/47 Yeni Diyanet Meali)<br>
         Yeri de biz döşedik. Biz ne güzel döşeyiciyiz.! (Zariyat/48)
         </blockquote>
 
