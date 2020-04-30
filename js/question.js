@@ -18,7 +18,7 @@ let qdb = [{
         "correct": true,
         "answer": `
         <p>Günlerden birgün Allah resulü, evlatlığı Zeyd'in evine gidiyor ancak Zeyd o sırada evde değil. 
-        Zeyd'in eşi (aynı zamanda Muhammed'in halasının kızı olan) Zeynep'i uygunsuz bir kıyafetle görüyor. Tabii aşık oluyor Peygamberimiz evlatlığının eşine. 
+        Zeyd'in eşi (aynı zamanda Muhammed'in halasının kızı olan) Zeynep'i uygunsuz bir kıyafetle görüyor. Tabii aşık oluyor Peygamberimiz evlatlığının eşine.
         Gel zaman git zaman, yüreğindeki sevdayı bastıramayıp gidip Zeynep'i eşi Zeyd'den istiyor. 
         Zeyd ise çok zorlanarak da olsa eşini boşuyor ve Muhammed'le evlendiriyor (Kaynak: Kütüb-i Sitte).<br>
         Bu kararında alttaki ayet de oldukça etkili oluyor.</p>
