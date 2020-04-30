@@ -77,12 +77,15 @@ let qdb = [{
     },
     {
         "question": "Kur'an'da evrenin genişlediği yazmaktadır.",
-        "correct": false,
+        "correct": true,
         "answer": `
         <p>Aşağıdaki ayet, modern astronomiyle keşfedilmiş evrenin genişlediği bilgisinin Kur'an'da mevcut olduğunu iddia eder ve bunu bir mucize sayar.</p>
 
         <blockquote style="font-size: 0.9em">
         Göğü, gücümüzle Biz kurduk; şüphesiz biz onu genişleticiyiz. (Zariyat/47 Eski Diyanet Meali)
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
         Göğü kudretimizle biz kurduk ve şüphesiz bizim (her şeye) gücümüz yeter. (Zariyat/47 Yeni Diyanet Meali)
         Yeri de biz döşedik. Biz ne güzel döşeyiciyiz.! (Zariyat/48)
         </blockquote>
