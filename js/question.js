@@ -160,5 +160,39 @@ let qdb = [{
         <blockquote style="font-size: 0.9em">
         Hak (ancak) Rabbindendir. Artık, <b>sakın şüpheye düşenlerden olma!</b> (Bakara/147)
         </blockquote>`
+    },
+    {
+        "question": "Kur'an köleliği yasaklar.",
+        "correct": false,
+        "answer": `<p></p>
+
+        <blockquote style="font-size: 0.9em">
+        </blockquote>`
+    },
+    {
+        "question": "Kur'an'a göre eş kocasına itaat etmek zorundadır.",
+        "correct": true,
+        "answer": `<p></p>
+
+        <blockquote style="font-size: 0.9em">
+        </blockquote>`
+    },
+    {
+        "question": "Kur'an spermin testislerde oluştuğunu biliyor.",
+        "correct": false,
+        "answer": `<p>Aksine bilime tamamen ters ve yanlış bir şekilde aşağıdaki ayeti barındırıyor.</p>
+
+        <blockquote style="font-size: 0.9em">
+        O (insan), atılan bir sudan yaratıldı. O su, bel (omurga) ve göğüs kafesi arasından çıkar. (Tarık/6-7)
+        </blockquote>`
+    },
+    {
+        "question": "Kur'an düşünme organı olan beyinden bahseder.",
+        "correct": false,
+        "answer": `<p>Aksine bilime tamamen ters ve yanlış bir şekilde aşağıdaki ayeti barındırıyor.</p>
+
+        <blockquote style="font-size: 0.9em">
+        O (insan), atılan bir sudan yaratıldı. O su, bel (omurga) ve göğüs kafesi arasından çıkar. (Tarık/6-7)
+        </blockquote>`
     }
 ]
