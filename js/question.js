@@ -79,7 +79,8 @@ let qdb = [{
         "question": "Kur'an'da evrenin genişlediği yazmaktadır.",
         "correct": true,
         "answer": `
-        <p>Aşağıdaki ilk ayet, modern astronomiyle keşfedilen, evrenin genişlediği bilgisinin Kur'an'da mevcut olduğunu iddia eder ve bunu bir mucize sayar.</p>
+        <p>İslamcılar aşağıdaki ilk ayet ile, modern astronomiyle keşfedilen evrenin genişlediği bilgisinin Kur'an'da mevcut olduğunu iddia eder 
+        ve bunu bir mucize sayar.</p>
 
         <blockquote style="font-size: 0.9em">
         Göğü, gücümüzle Biz kurduk; şüphesiz biz onu genişleticiyiz. (Zariyat/47 Eski Diyanet Meali)
@@ -94,7 +95,7 @@ let qdb = [{
         </blockquote>
 
         <p>Peki ilk ayet bir mucize ise, ikinci ayette de yeryüzünün genişlediğini söylemiyor mu? Bu argüman karşısında ise diyanet ayetin mealini 
-        tamamen değiştirmiştir.</p>`
+        değiştirme yoluna gitmiştir.</p>`
     },
     {
         "question": "Kur'an'ın tamamı Allah'ın sözü müdür?.",
@@ -121,14 +122,14 @@ let qdb = [{
         "correct": true,
         "answer": `
         <p>Aşağıdaki ayetlerin ilki Uhud savaşından önce inmiş, önceki kitaplarda olduğu gibi savaşta Allah'ın inanlara yardım edeceğini bildirmiştir. 
-        Bu yardımla 1'e 100 bir oranda kuvvet verildiği belirtilir.</p>
+        Bu yardımla inananların 1'e 100 oranında üstün olduğu belirtilir.</p>
 
         <blockquote style="font-size: 0.9em">
         Ey Peygamber! Mü’minleri savaşa teşvik et. Eğer içinizde sabırlı yirmi kişi bulunursa, iki yüz kişiye galip gelirler. Eğer içinizde (sabırlı) 
         yüz kişi bulunursa, inkâr edenlerden bin kişiye galip gelirler. Çünkü onlar anlamayan bir kavimdir. (Enfal/65)
         </blockquote>
 
-        <p>Savaş yapılır ve kaybedilir ardından aşağıdaki ayet iner, yeni oran 1'e 2'dir. Peki Allah bu yenilgiyi önceden bilmiyor muydu da bu ayetler indi?</p>
+        <p>Savaş yapılır ve kaybedilir. Ardından aşağıdaki ayet iner, yeni oran 1'e 2'dir. Peki Allah bu yenilgiyi önceden bilmiyor muydu da bu ayetler indi?</p>
 
         <blockquote style="font-size: 0.9em">
         Şimdi ise, Allah yükünüzü hafifletti ve sizde muhakkak bir zaaf olduğunu bildi. Eğer içinizde sabırlı yüz kişi olursa iki yüz kişiye galip gelirler. 
@@ -137,12 +138,12 @@ let qdb = [{
 
     },
     {
-        "question": "Kur'an'da herkes eşittir.",
+        "question": "Kur'an'da ırkî eşitlik vardır.",
         "correct": false,
-        "answer": `<p>Alttaki ayetler diyanet çevirisinde "(bir zamanlar)" ile düzeltilmeye çalışılmıştır ancak orjinalinde ve diğer bir çok mealde 
-        böyle bir düzeltme yoktur. Ayrıca birbirinin tamamen aynısı iki ayetin indirilmesinin anlamı nedir? Allah bu ayeti indirdiğini unutmuş mudur?</p>
-
-        <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken alttaki ayetler buna büyük bir tezattır.</p>
+        "answer": `
+        <p>Alttaki ayetler diyanet mealinde "(bir zamanlar)" ile düzeltilmeye çalışılmıştır ancak orjinalinde ve diğer bir çok mealde 
+        böyle bir düzeltme yoktur. Zira kendini "apaçık" olarak niteleyen bir kitabın neden ek açıklamalara, tefsirlere ihtiyacı vardır? 
+        Ayrıca birbirinin tamamen aynısı iki ayetin indirilmesinin anlamı nedir? Allah bu ayeti indirdiğini unutmuş mudur?</p>
 
         <blockquote style="font-size: 0.9em">
         Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün kıldığımı hatırlayın. (Bakara/47)
@@ -150,7 +151,10 @@ let qdb = [{
 
         <blockquote style="font-size: 0.9em">
         Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün tuttuğumu hatırlayın. (Bakara/122)
-        </blockquote>`
+        </blockquote>
+        
+        <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken üstteki ayetler buna büyük bir tezattır.</p>
+        `
     },
     {
         "question": "İslam araştırma, sorgulama dinidir.",
@@ -178,9 +182,9 @@ let qdb = [{
         </blockquote>`
     },
     {
-        "question": "Kur'an spermin testislerde oluştuğunu biliyor.",
+        "question": "Kur'an spermin testislerde oluştuğunu bilmiştir.",
         "correct": false,
-        "answer": `<p>Aksine bilime tamamen ters ve yanlış bir şekilde aşağıdaki ayeti barındırıyor.</p>
+        "answer": `<p>Aksine Kur'an, bilime tamamen ters ve yanlış bir şekilde aşağıdaki ayeti barındırmaktadır.</p>
 
         <blockquote style="font-size: 0.9em">
         O (insan), atılan bir sudan yaratıldı. O su, bel (omurga) ve göğüs kafesi arasından çıkar. (Tarık/6-7)
@@ -189,10 +193,44 @@ let qdb = [{
     {
         "question": "Kur'an düşünme organı olan beyinden bahseder.",
         "correct": false,
-        "answer": `<p>Aksine bilime tamamen ters ve yanlış bir şekilde aşağıdaki ayeti barındırıyor.</p>
+        "answer": `<p>Kur'an, beyinden hiç bahsetmez; düşünme, inanma, sorgulama, şüphelenme yetilerinin hepsinin kalp ile yapıldığını söyler. 
+        Böyle bir şey olmadığını günümüzde pek iyi biliyoruz.</p>
 
         <blockquote style="font-size: 0.9em">
         O (insan), atılan bir sudan yaratıldı. O su, bel (omurga) ve göğüs kafesi arasından çıkar. (Tarık/6-7)
         </blockquote>`
+    },
+    {
+        "question": "Cuma namazı erkeklere farzdır.",
+        "correct": false,
+        "answer": `<p>Çoğu kesim tarafından öyle kabul edilse de Kur'an'da cuma namazıyla ilgili yek ifade alttakidir.</p>
+
+        <blockquote style="font-size: 0.9em">
+        Ey iman edenler! Cuma günü namaz için çağrı yapıldığı zaman, hemen Allah’ın zikrine koşun ve alışverişi bırakın. 
+        Eğer bilirseniz bu, sizin için daha hayırlıdır. (Cuma/9)
+        </blockquote>`
+    },
+    {
+        "question": "Kur'an evrenseldir.",
+        "correct": false,
+        "answer": `<p>Alttaki ayetler çoğu İslamcı tarafından Mekke ve çevresi tüm dünyayı kastetmiştir olarak açıklanmaktadır. 
+        Peki Allah bunun yanlış anlaşılabileceğini düşünemedi de mi bu ayeti indirdi?</p>
+
+        <blockquote style="font-size: 0.9em">
+        Bu indirdiğimiz, kendinden öncekileri doğrulayan, Mekkelileri ve etrafındakileri uyaran mübarek Kitap'dır. Ahirete inananlar buna inanırlar, 
+        namazlarına da devam ederler. (Enam/92) Eski Diyanet Meali
+        </blockquote>
+        <blockquote style="font-size: 0.9em">
+        İşte bu (Kur’an) da, bereket kaynağı, kendinden öncekileri (ilâhî kitapları) tasdik eden ve şehirler anasını (Mekke’yi) ve bütün çevresini 
+        (tüm insanlığı) uyarasın diye indirdiğimiz bir kitaptır. Ahirete iman edenler, ona da inanırlar. Onlar namazlarını vaktinde kılarlar. (Enam/92) Yeni Diyanet Meali
+        </blockquote>
+        
+        <p>Bu ayetde Kur'an'ın anlaşılabilmesi için Arapça indiğini söyler. Peki Arapça indiğinde anlaşılabileceği kişiler Araplar ile sınırlı değil midir?</p>
+
+        <blockquote style="font-size: 0.9em">
+        Biz onu, akıl erdiresiniz diye Arapça bir Kur’an olarak indirdik. (Yusuf/2)
+        </blockquote>
+        
+        `
     }
 ]
