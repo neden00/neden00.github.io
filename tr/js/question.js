@@ -2,8 +2,8 @@ let qdb = [{
         "question": "İsteyen herkes iman edebilir.",
         "correct": false,
         "answer": `
-        <p>Muhammed Mekke'deyken, Mekkelileri ikna edemediği için aşağıdaki ayet inmiştir. Bu ayet dışında da birkaç 
-        kez Allah'ın kalpleri mühürlemesinden bahsedilmektedir.</p>
+        <p>Muhammed Mekke'deyken, Mekkelileri ikna edemediği için aşağıdaki ayet inmiştir. Bahsedilen müşrikler daha sonra Mekke'nin fethiyle 
+        her nasılsa iman edenlere katılmıştır.</p>
 
         <blockquote style="font-size: 0.9em">
             Onlardan seni Kur’an okurken dinleyenler de vardır. Fakat <b>onu anlamalarına engel olmak için kalplerinin
@@ -11,7 +11,99 @@ let qdb = [{
             Hatta o kâfirler sana geldiklerinde, "Bu Kur’an eskilerin masallarından başka bir şey değildir" diyerek seninle tartışırlar. (En'am/25)
         </blockquote>
 
-        <p>Daha sonra Mekke'nin fethiyle her nasılsa bahsedilen müşrikler iman etmiştir.</p>`
+        <blockquote style="font-size: 0.9em">
+        Sen onların doğru yola erişmelerine aşırı istek göstersen de şüphesiz Allah saptırdığı kimseyi doğru yola iletmez. Onların yardımcıları da yoktur. (Nahl/37)
+        </blockquote>`
+    },
+    {
+        "question": "Kur'an'ın tamamı Allah'ın sözü müdür?.",
+        "correct": false,
+        "answer": `
+        <p>Aşağıdaki ayetler üzerinde oynama, kırpma, cımbızlama yoktur. Sizce Allah'ın böyle cümleler kurması mümkün müdür? Diyanet kimi yerde bu ayetleri 
+        parantezlerle kurtarmaya çalışmıştır ancak bizim incelememiz gereken Kur'an'ın kendisidir.</p>
+
+        <blockquote style="font-size: 0.9em">
+        (De ki:) Şüphesiz ben size O’nun tarafından gönderilmiş bir uyarıcı ve müjdeleyiciyim. (Hud/2)
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Hakkında ayrılığa düştüğünüz herhangi bir şeyin hükmü Allah’a aittir. İşte bu, Rabbim Allah’tır. Yalnız O’na tevekkül ettim ve 
+        ancak O’na yöneliyorum. (Şura/10)
+        </blockquote>
+        
+        <blockquote style="font-size: 0.9em">
+        Allah ile beraber başka bir ilâh edinmeyin. Gerçekten ben, size, Allah tarafından gönderilmiş açık bir uyarıcıyım. (Zariyat/51)
+        </blockquote>`
+    },
+    {
+        "question": "İslam şüphe edip, sorgulamaya açıktır.",
+        "correct": false,
+        "answer": `<p></p>
+
+        <blockquote style="font-size: 0.9em">
+        Hak (ancak) Rabbindendir. Artık, <b>sakın şüpheye düşenlerden olma!</b> (Bakara/147)
+        </blockquote>`
+    },
+    {
+        "question": "İslam hoşgörü dinidir.",
+        "correct": false,
+        "answer": `
+                
+        <blockquote style="font-size: 0.9em">
+        Dinini değiştireni öldürün. (Buhari, Cihad, 149)
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Ey inananlar! Yahudi ve hıristiyanları dost edinmeyin. Onlar birbirlerinin dostlarıdırlar. Sizden kim onları dost edinirse, kuşkusuz o da onlardandır. 
+        Şüphesiz Allah, zalimler topluluğunu doğruya iletmez. (Maide/51)
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Haram aylar çıkınca, müşrikleri bulduğunuz yerde öldürün, esir alın, kuşatın ve onları her geçit yerinde gözetleyin. Şayet tövbe ederler, 
+        namazlarını kılarlar ve zekâtlarını verirlerse artık onları serbest bırakın. Allah yargılayıcıdır, bağışlayıcıdır. (Tevbe/5)
+        </blockquote>
+        
+        
+        <blockquote style="font-size: 0.9em">
+        Dinde zorlama yoktur.[...] (Bakara/256)
+        </blockquote>`
+    },
+    {
+        "question": "İslam'da ırki eşitlik vardır.",
+        "correct": false,
+        "answer": `
+        <p>Alttaki ayetler diyanet mealinde "(bir zamanlar)" ile düzeltilmeye çalışılmıştır ancak orjinalinde ve diğer bir çok mealde 
+        böyle bir düzeltme yoktur. Zira kendini "apaçık" olarak niteleyen bir kitabın neden ek açıklamalara, tefsirlere ihtiyacı vardır? 
+        Ayrıca birbirinin tamamen aynısı iki ayetin indirilmesinin anlamı nedir? Allah bu ayeti indirdiğini unutmuş mudur?</p>
+
+        <blockquote style="font-size: 0.9em">
+        Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün kıldığımı hatırlayın. (Bakara/47)
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün tuttuğumu hatırlayın. (Bakara/122)
+        </blockquote>
+        
+        <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken üstteki ayetler buna büyük bir tezattır.</p>
+        `
+    },
+    {
+        "question": "İslam'da cinsiyet eşitliği vardır.",
+        "correct": false,
+        "answer": `<p>Alttaki ayet parantez kullanılarak bir nebze düzeltilmeye çalışılmışsa da Kur'an kadının dövülmesine izin vermektedir.</p>
+
+        <blockquote style="font-size: 0.9em">
+        Allah’ın insanlardan bir kısmını diğerlerine üstün kılmasına bağlı olarak ve mallarından harcama yapmaları sebebiyle <b>erkekler kadınların yöneticisi 
+        ve koruyucusudurlar.</b> Sâliha kadınlar Allah’a itaatkârdırlar. Allah’ın korumasına uygun olarak, kimsenin görmediği durumlarda da kendilerini korurlar. 
+        (Evlilik hukukuna) <b> baş kaldırmasından endişe ettiğiniz kadınlara öğüt verin, onları yataklarda yalnız bırakın ve onları dövün</b>. 
+        Eğer size itaat ederlerse artık onların aleyhine başka bir yol aramayın; çünkü Allah yücedir, büyüktür. (Nisa/34)
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Resulullah as buyurdular ki: “Biriniz sütresiz olarak namaz kılarsa (önün­den geçtiği takdirde) şunlar namazı bozar: eşek, domuz, yahudi, mecûsi, kadın... 
+        Namazın bozulmaması için onun önünden, bunların bir taş atımlık uzaktan geçmesi kifâyet eder.” <br> (Buhari, Salat 90, İlm 18, Ezan 161, Cezau's-Sayd 25; 
+        Müslim, Salat 254, (504); Muvatta, Kasru's-Sala)
+        </blockquote>`
     },
     {
         "question": "Muhammed kendi geliniyle evlenmiştir.",
@@ -76,6 +168,16 @@ let qdb = [{
         `
     },
     {
+        "question": "Muhammed ayı ikiye yarmıştır.",
+        "correct": true,
+        "answer": `
+        <p>O dönemdeki başka hiçbir kaynakta yer almayan, hiçbir dayanağı olmayan bu olay (şakk-ı kamer) Kur'an'da yer almaktadır.</p>
+
+        <blockquote style="font-size: 0.9em">
+        Kıyamet yaklaştı ve ay yarıldı. (Kamer/1)
+        </blockquote>`
+    },
+    {
         "question": "Kur'an'da evrenin genişlediği yazmaktadır.",
         "correct": true,
         "answer": `
@@ -98,26 +200,6 @@ let qdb = [{
         değiştirme yoluna gitmiştir.</p>`
     },
     {
-        "question": "Kur'an'ın tamamı Allah'ın sözü müdür?.",
-        "correct": false,
-        "answer": `
-        <p>Aşağıdaki ayetler üzerinde oynama, kırpma, cımbızlama yoktur. Sizce Allah'ın böyle cümleler kurması mümkün müdür? Diyanet bu ayetleri parantezlerle 
-        kurtarmaya çalışmıştır ancak bizim incelememiz gereken Kur'an'ın kendisidir.</p>
-
-        <blockquote style="font-size: 0.9em">
-        (De ki:) “Şüphesiz ben size O’nun tarafından gönderilmiş bir uyarıcı ve müjdeleyiciyim.” (Hud/2)
-        </blockquote>
-
-        <blockquote style="font-size: 0.9em">
-        Hakkında ayrılığa düştüğünüz herhangi bir şeyin hükmü Allah’a aittir. İşte bu, Rabbim Allah’tır. Yalnız O’na tevekkül ettim ve 
-        ancak O’na yöneliyorum. (Şura/10)
-        </blockquote>
-        
-        <blockquote style="font-size: 0.9em">
-        Allah ile beraber başka bir ilâh edinmeyin. Gerçekten ben, size, Allah tarafından gönderilmiş açık bir uyarıcıyım. (Zariyat/51)
-        </blockquote>`
-    },
-    {
         "question": "Kur'an'da Allah yanılmıştır.",
         "correct": true,
         "answer": `
@@ -138,44 +220,17 @@ let qdb = [{
 
     },
     {
-        "question": "Kur'an'da ırkî eşitlik vardır.",
-        "correct": false,
-        "answer": `
-        <p>Alttaki ayetler diyanet mealinde "(bir zamanlar)" ile düzeltilmeye çalışılmıştır ancak orjinalinde ve diğer bir çok mealde 
-        böyle bir düzeltme yoktur. Zira kendini "apaçık" olarak niteleyen bir kitabın neden ek açıklamalara, tefsirlere ihtiyacı vardır? 
-        Ayrıca birbirinin tamamen aynısı iki ayetin indirilmesinin anlamı nedir? Allah bu ayeti indirdiğini unutmuş mudur?</p>
-
-        <blockquote style="font-size: 0.9em">
-        Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün kıldığımı hatırlayın. (Bakara/47)
-        </blockquote>
-
-        <blockquote style="font-size: 0.9em">
-        Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün tuttuğumu hatırlayın. (Bakara/122)
-        </blockquote>
-        
-        <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken üstteki ayetler buna büyük bir tezattır.</p>
-        `
-    },
-    {
-        "question": "İslam araştırma, sorgulama dinidir.",
+        "question": "Ejderhalar gerçektir.",
         "correct": false,
         "answer": `<p></p>
 
         <blockquote style="font-size: 0.9em">
-        Hak (ancak) Rabbindendir. Artık, <b>sakın şüpheye düşenlerden olma!</b> (Bakara/147)
+        Bunun üzerine Mûsâ, asasını yere attı. Bir de ne görsünler, apaçık bir ejderha. (Araf/107)
         </blockquote>`
     },
     {
         "question": "Kur'an köleliği yasaklar.",
         "correct": false,
-        "answer": `<p></p>
-
-        <blockquote style="font-size: 0.9em">
-        </blockquote>`
-    },
-    {
-        "question": "Kur'an'a göre eş kocasına itaat etmek zorundadır.",
-        "correct": true,
         "answer": `<p></p>
 
         <blockquote style="font-size: 0.9em">
