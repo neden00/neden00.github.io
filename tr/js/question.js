@@ -171,6 +171,25 @@ let qdb = [{
         `
     },
     {
+        "question": "Kur'an evrenseldir.",
+        "correct": false,
+        "answer": `<p>Alttaki ayetler çoğu İslamcı tarafından Mekke ve çevresi tüm dünyayı kastetmiştir olarak açıklanmaktadır. Peki Allah bunun yanlış anlaşılabileceğini düşünemedi de mi bu ayeti indirdi?</p>
+
+        <blockquote style="font-size: 0.9em">
+        Bu indirdiğimiz, kendinden öncekileri doğrulayan, Mekkelileri ve etrafındakileri uyaran mübarek Kitap'dır. Ahirete inananlar buna inanırlar, namazlarına da devam ederler. (En'am/92) Eski Diyanet Meali
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        İşte bu (Kur’an) da, bereket kaynağı, kendinden öncekileri (ilâhî kitapları) tasdik eden ve şehirler anasını (Mekke’yi) ve bütün çevresini (tüm insanlığı) uyarasın diye indirdiğimiz bir kitaptır. Ahirete iman edenler, ona da inanırlar. Onlar namazlarını vaktinde kılarlar. (En'am/92) Yeni Diyanet Meali
+        </blockquote>
+        
+        <p>Bu ayetde Kur'an'ın anlaşılabilmesi için Arapça indiğini söyler. Peki Arapça indiğinde anlaşılabileceği kişiler Araplar ile sınırlı değil midir?</p>
+
+        <blockquote style="font-size: 0.9em">
+        Biz onu, akıl erdiresiniz diye Arapça bir Kur’an olarak indirdik. (Yusuf/2)
+        </blockquote>`
+    },
+    {
         "question": "Muhammed ayı ikiye yarmıştır.",
         "correct": false,
         "answer": `
@@ -262,25 +281,6 @@ let qdb = [{
 
         <blockquote style="font-size: 0.9em">
         Ey iman edenler! Cuma günü namaz için çağrı yapıldığı zaman, hemen Allah’ın zikrine koşun ve alışverişi bırakın. Eğer bilirseniz bu, sizin için daha hayırlıdır. (Cuma/9)
-        </blockquote>`
-    },
-    {
-        "question": "Kur'an evrenseldir.",
-        "correct": false,
-        "answer": `<p>Alttaki ayetler çoğu İslamcı tarafından Mekke ve çevresi tüm dünyayı kastetmiştir olarak açıklanmaktadır. Peki Allah bunun yanlış anlaşılabileceğini düşünemedi de mi bu ayeti indirdi?</p>
-
-        <blockquote style="font-size: 0.9em">
-        Bu indirdiğimiz, kendinden öncekileri doğrulayan, Mekkelileri ve etrafındakileri uyaran mübarek Kitap'dır. Ahirete inananlar buna inanırlar, namazlarına da devam ederler. (En'am/92) Eski Diyanet Meali
-        </blockquote>
-
-        <blockquote style="font-size: 0.9em">
-        İşte bu (Kur’an) da, bereket kaynağı, kendinden öncekileri (ilâhî kitapları) tasdik eden ve şehirler anasını (Mekke’yi) ve bütün çevresini (tüm insanlığı) uyarasın diye indirdiğimiz bir kitaptır. Ahirete iman edenler, ona da inanırlar. Onlar namazlarını vaktinde kılarlar. (En'am/92) Yeni Diyanet Meali
-        </blockquote>
-        
-        <p>Bu ayetde Kur'an'ın anlaşılabilmesi için Arapça indiğini söyler. Peki Arapça indiğinde anlaşılabileceği kişiler Araplar ile sınırlı değil midir?</p>
-
-        <blockquote style="font-size: 0.9em">
-        Biz onu, akıl erdiresiniz diye Arapça bir Kur’an olarak indirdik. (Yusuf/2)
         </blockquote>`
     }
 ]
