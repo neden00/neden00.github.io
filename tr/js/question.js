@@ -79,6 +79,8 @@ let qdb = [{
         "answer": `
         <p>Alttaki ayetler diyanet mealinde "(bir zamanlar)" ile düzeltilmeye çalışılmıştır ancak orjinalinde ve diğer bir çok mealde böyle bir düzeltme yoktur. Zira kendini "apaçık" olarak niteleyen bir kitabın neden ek açıklamalara, tefsirlere ihtiyacı vardır? Ayrıca birbirinin tamamen aynısı iki ayetin indirilmesinin anlamı nedir? Allah bu ayeti indirdiğini unutmuş mudur?</p>
 
+        <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken üstteki ayetler buna büyük bir tezattır.</p>
+
         <blockquote style="font-size: 0.9em">
         Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün kıldığımı hatırlayın. (Bakara/47)
         </blockquote>
@@ -87,8 +89,6 @@ let qdb = [{
         Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün tuttuğumu hatırlayın. (Bakara/122)
         </blockquote>
 
-        <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken üstteki ayetler buna büyük bir tezattır.</p>
-        
         <blockquote style="font-size: 0.9em">
         Baksana, biz insanların kimini kiminden nasıl üstün kılmışızdır! Elbette ki ahiret, derece ve üstünlük farkları bakımından daha büyüktür. (İsra/21)
         </blockquote>`
@@ -280,8 +280,6 @@ let qdb = [{
 
         <blockquote style="font-size: 0.9em">
         Biz onu, akıl erdiresiniz diye Arapça bir Kur’an olarak indirdik. (Yusuf/2)
-        </blockquote>
-        
-        `
+        </blockquote>`
     }
 ]
