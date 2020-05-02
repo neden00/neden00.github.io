@@ -19,8 +19,8 @@ let qdb = [{
         "question": "Kur'an'ın tamamı Allah'ın sözü müdür?.",
         "correct": false,
         "answer": `
-        <p>Aşağıdaki ayetler üzerinde oynama, kırpma, cımbızlama yoktur. Sizce Allah'ın böyle cümleler kurması mümkün müdür? Diyanet kimi yerde bu ayetleri 
-        parantezlerle kurtarmaya çalışmıştır ancak bizim incelememiz gereken Kur'an'ın kendisidir.</p>
+        <p>Sizce Allah'ın aşağıdaki gibi cümleler kurması mümkün müdür? Diyanet kimi yerde bu ayetleri parantezlerle kurtarmaya çalışmıştır 
+        ancak bizim incelememiz gereken Kur'an'ın kendisidir.</p>
 
         <blockquote style="font-size: 0.9em">
         (De ki:) Şüphesiz ben size O’nun tarafından gönderilmiş bir uyarıcı ve müjdeleyiciyim. (Hud/2)
