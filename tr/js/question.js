@@ -137,17 +137,18 @@ let qdb = [{
     {
         "question": "Kur'an'da zina yasaklanmıştır.",
         "correct": true,
-        "answer": `<p>Kur'an'da zina İsra/32 ile yasaklanmış, Nur/2 ile cezası acımadan 100 sopa vurmak olarak belirlenmiştir. 
-        Peki aslında zina ne derece engellenmiştir?</p>
+        "answer": `<p>Kur'an'da zina İsra/32 ile yasaklanmış, Nur/2 ile cezası acımadan 100 sopa vurmak olarak belirlenmiştir.</p>
 
         <blockquote style=\"font-size: 0.9em\">
         Sakın zinaya yaklaşmayın; doğrusu bu çirkindir, kötü bir yoldur. (İsra/32)
         </blockquote>
-
+        
         <blockquote style=\"font-size: 0.9em\">
         Zina eden kadın ve erkeğin her birine yüzer değnek vurun. Allah'a ve ahiret gününe inanıyorsanız, Allah'ın dini konusunda o ikisine acımayın. 
         Onların ceza görmesine, inananlardan bir topluluk da şahit olsun. (Nur/2)
         </blockquote>
+
+        <p>Peki aslında zina ne derece engellenmiştir?</p>
 
         <p>1. Zinanın ispatı için dört tane şahit olması gerekmektedir (Nisa/15). Zira Muhammed'in eşi Ayşe'de zina ile suçlanmış ama 
         bu ayet dolayısıyla affedilmiştir. Peki sizce zina yapan birinin dört adet şahitle yakalanma ihtimali nedir?</p>
