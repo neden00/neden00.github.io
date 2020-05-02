@@ -22,7 +22,7 @@ function Next() {
 
     var q = qdb[i];
 
-    document.getElementById("questionNumber").innerHTML = "Soru " + (i + 1) + ":";
+    document.getElementById("questionNumber").innerHTML = "Question " + (i + 1) + ":";
     document.getElementById("questionText").innerHTML = q.question;
     document.getElementById("answer").innerHTML = q.answer;
 

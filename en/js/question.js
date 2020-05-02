@@ -1,29 +1,27 @@
 let qdb = [{
-        "question": "İsteyen herkes iman edebilir.",
+        "question": "Whoever wants to believe can believe in Quran.",
         "correct": false,
         "answer": `
-        <p>Muhammed Mekke'deyken, Mekkelileri ikna edemediği için aşağıdaki ayet inmiştir. Bahsedilen müşrikler daha sonra Mekke'nin fethiyle 
-        her nasılsa iman edenlere katılmıştır.</p>
+        <p>Verse below came while Muhammad was in Mekka and couldn't make polytheist believe. However these polytheists believed after the conquest of Mekka. (By the fear of the swords ?)</p>
 
         <blockquote style="font-size: 0.9em">
-        Onlardan seni Kur’an okurken dinleyenler de vardır. Fakat <b>onu anlamalarına engel olmak için kalplerinin üstüne örtüler çektik, kulaklarına da ağırlık verdik</b>. Onlar her türlü mûcizeyi görseler bile yine de ona inanmazlar. Hatta o kâfirler sana geldiklerinde, "Bu Kur’an eskilerin masallarından başka bir şey değildir" diyerek seninle tartışırlar. (En'am/25)
-        </blockquote>
-
-        <blockquote style="font-size: 0.9em">
-        Sen onların doğru yola erişmelerine aşırı istek göstersen de şüphesiz Allah saptırdığı kimseyi doğru yola iletmez. Onların yardımcıları da yoktur. (Nahl/37)
+        And among them are those who listen to you, but We have placed over their hearts coverings, lest they understand it, and in their ears deafness. And if they should see every sign, they will not believe in it. Even when they come to you arguing with you, those who disbelieve say, "This is not but legends of the former peoples." (Al-An'am/25)
         </blockquote>
         
         <blockquote style="font-size: 0.9em">
-        Allah kimi doğru yola iletmek isterse onun kalbini İslam'a açar; kimi de saptırmak isterse göğe çıkıyormuş gibi kalbini iyice daraltır. Allah inanmayanların üstüne işte böyle murdarlık verir. (En'am/125)
+        So whoever Allah wants to guide - He expands his breast to [contain] Islam; and whoever He wants to misguide - He makes his breast tight and constricted as though he were climbing into the sky. Thus does Allah place defilement upon those who do not believe. (En'am/125)
         </blockquote>
 
+        <blockquote style="font-size: 0.9em">
+        [Even] if you should strive for their guidance, [O Muhammad], indeed, Allah does not guide those He sends astray, and they will have no helpers. (An-Nahl/37)
+        </blockquote>
         `
     },
     {
-        "question": "Kur'an'ın tamamı Allah'ın sözü müdür?.",
+        "question": "All of the Quran is the sayings of Allah.",
         "correct": false,
         "answer": `
-        <p>Sizce Allah'ın aşağıdaki gibi cümleler kurması mümkün müdür? Diyanet kimi yerde bu ayetleri parantezlerle kurtarmaya çalışmıştır ancak bizim incelememiz gereken Kur'an'ın kendisidir.</p>
+        <p>Do you really think Allah would say those sentences, it is clear that Muhammad said them. Some correct the verses with paranthesis but shouldn't Quran be cyrstal clear and need no explanation?</p>
 
         <blockquote style="font-size: 0.9em">
         (De ki:) Şüphesiz ben size O’nun tarafından gönderilmiş bir uyarıcı ve müjdeleyiciyim. (Hud/2)

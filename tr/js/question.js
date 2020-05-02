@@ -89,7 +89,7 @@ let qdb = [{
 
         <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken üstteki ayetler buna büyük bir tezattır.</p>
         
-        </blockquote>
+        <blockquote style="font-size: 0.9em">
         Baksana, biz insanların kimini kiminden nasıl üstün kılmışızdır! Elbette ki ahiret, derece ve üstünlük farkları bakımından daha büyüktür. (İsra/21)
         </blockquote>`
     },
@@ -102,10 +102,10 @@ let qdb = [{
         Allah’ın insanlardan bir kısmını diğerlerine üstün kılmasına bağlı olarak ve mallarından harcama yapmaları sebebiyle <b>erkekler kadınların yöneticisi ve koruyucusudurlar.</b> Sâliha kadınlar Allah’a itaatkârdırlar. Allah’ın korumasına uygun olarak, kimsenin görmediği durumlarda da kendilerini korurlar. (Evlilik hukukuna) <b> baş kaldırmasından endişe ettiğiniz kadınlara öğüt verin, onları yataklarda yalnız bırakın ve onları dövün</b>. Eğer size itaat ederlerse artık onların aleyhine başka bir yol aramayın; çünkü Allah yücedir, büyüktür. (Nisa/34)
         </blockquote>
 
-        </blockquote>
-        [...]Erkeklerinizden iki şahid tutun; eğer iki erkek bulunmazsa, şahidlerden razı olacağınız bir erkek, biri unuttuğunda diğeri ona hatırlatacak iki kadın olabilir. [...] (Bakara/282)
         <blockquote style="font-size: 0.9em">
-        
+        [...]Erkeklerinizden iki şahid tutun; eğer iki erkek bulunmazsa, şahidlerden razı olacağınız bir erkek, biri unuttuğunda diğeri ona hatırlatacak iki kadın olabilir. [...] (Bakara/282)
+        </blockquote>
+
         <p>Kadınlar yalancı mıdır? Unutkan mıdır? Bu ayetin inme sebebi nedir? <br> Alttaki hadis de hem kadını hem Yahudileri adeta aşağılar.</p>
 
         <blockquote style="font-size: 0.9em">
