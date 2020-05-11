@@ -3,7 +3,7 @@ let qdb = [{
         "correct": false,
         "answer": `
         <blockquote style="font-size: 0.9em">
-        İstisnasız her peygamberi kendi kavminin diliyle gönderdik ki onlara açık açık anlatsın; bundan sonra Allah dilediğini sapkınlık içerisinde bırakır, dilediğini de doğru yola iletir. O, güçlüdür, hikmet sahibidir. (İbrahim/4)
+        İstisnasız her peygamberi kendi kavminin diliyle gönderdik ki onlara açık açık anlatsın; bundan sonra <b>Allah dilediğini sapkınlık içerisinde bırakır, dilediğini de doğru yola iletir.</b> O, güçlüdür, hikmet sahibidir. (İbrahim/4)
         </blockquote>
 
         <blockquote style="font-size: 0.9em">
@@ -15,11 +15,11 @@ let qdb = [{
         </blockquote>
         
         <blockquote style="font-size: 0.9em">
-        Allah kimi doğru yola iletmek isterse onun kalbini İslam'a açar; <b>kimi de saptırmak isterse göğe çıkıyormuş gibi kalbini iyice daraltır.</b> Allah inanmayanların üstüne işte böyle murdarlık verir. (En'am/125)
+        Allah <b>kimi doğru yola iletmek isterse onun kalbini İslam'a açar; kimi de saptırmak isterse göğe çıkıyormuş gibi kalbini iyice daraltır.</b> Allah inanmayanların üstüne işte böyle murdarlık verir. (En'am/125)
         </blockquote>
 
         <blockquote style="font-size: 0.9em">
-        Allah'ın izni olmadıkça hiç kimse inanamaz. O, aklını kullanmayanlara kötü bir azab verir. (Yunus/100)
+        <b>Allah'ın izni olmadıkça hiç kimse inanamaz.</b> O, aklını kullanmayanlara kötü bir azab verir. (Yunus/100)
         </blockquote>
         `
     },
@@ -34,11 +34,11 @@ let qdb = [{
         </blockquote>
 
         <blockquote style="font-size: 0.9em">
-        Hakkında ayrılığa düştüğünüz herhangi bir şeyin hükmü Allah’a aittir. İşte bu, Rabbim Allah’tır. Yalnız O’na tevekkül ettim ve ancak O’na yöneliyorum. (Şura/10)
+        Hakkında ayrılığa düştüğünüz herhangi bir şeyin hükmü Allah’a aittir. <b>İşte bu, Rabbim Allah’tır. Yalnız O’na tevekkül ettim ve ancak O’na yöneliyorum.</b> (Şura/10)
         </blockquote>
         
         <blockquote style="font-size: 0.9em">
-        Allah ile beraber başka bir ilâh edinmeyin. Gerçekten ben, size, Allah tarafından gönderilmiş açık bir uyarıcıyım. (Zariyat/51)
+        Allah ile beraber başka bir ilâh edinmeyin. Gerçekten <b>ben, size, Allah tarafından gönderilmiş açık bir uyarıcıyım.</b> (Zariyat/51)
         </blockquote>`
     },
     {
@@ -55,10 +55,11 @@ let qdb = [{
         </blockquote>
 
         <blockquote style="font-size: 0.9em">
-        Haram aylar çıkınca, müşrikleri bulduğunuz yerde öldürün, esir alın, kuşatın ve onları her geçit yerinde gözetleyin. Şayet tövbe ederler, namazlarını kılarlar ve zekâtlarını verirlerse artık onları serbest bırakın. Allah yargılayıcıdır, bağışlayıcıdır. (Tevbe/5)
+        Haram aylar çıkınca, <b>müşrikleri bulduğunuz yerde öldürün, esir alın, kuşatın ve onları her geçit yerinde gözetleyin.</b> Şayet tövbe ederler, namazlarını kılarlar ve zekâtlarını verirlerse artık onları serbest bırakın. Allah yargılayıcıdır, bağışlayıcıdır. (Tevbe/5)
         </blockquote>
         
         <p>Üstteki ayetlerden kimsenin haberi yoktur ama bu ayeti herkes bilir.</p>
+
         <blockquote style="font-size: 0.9em">
         Dinde zorlama yoktur.[...] (Bakara/256)
         </blockquote>`
@@ -73,7 +74,7 @@ let qdb = [{
         </blockquote>
         
         <blockquote style="font-size: 0.9em">
-        (De ki): Allah'dan başka bir hakem mi arayacağım? Halbuki size Kitab'ı açık olarak indiren O'dur. Kendilerine kitap verdiğimiz kimseler, Kur'an'ın gerçekten Rabbin tarafından indirilmiş olduğunu bilirler. Sakın şüpheye düşenlerden olma! (En'am/114)
+        (De ki): Allah'dan başka bir hakem mi arayacağım? Halbuki size Kitab'ı açık olarak indiren O'dur. Kendilerine kitap verdiğimiz kimseler, Kur'an'ın gerçekten Rabbin tarafından indirilmiş olduğunu bilirler. <b>Sakın şüpheye düşenlerden olma!</b> (En'am/114)
         <blockquote style="font-size: 0.9em">`
         
     },
@@ -100,7 +101,8 @@ let qdb = [{
     {
         "question": "İslam'da cinsiyet eşitliği vardır.",
         "correct": false,
-        "answer": `<p>Alttaki ayet parantez kullanılarak bir nebze düzeltilmeye çalışılmışsa da Kur'an kadının dövülmesine izin vermektedir. Ayrıca yöneticisi ve koruyucusu olarak çevrilen yer kelime meali olarak bakıldığında sadece yönetici kelimesi geçmektedir.</p>
+        "answer": `
+        <p>Alttaki ayet parantez kullanılarak bir nebze düzeltilmeye çalışılmışsa da Kur'an kadının dövülmesine izin vermektedir. Ayrıca "yöneticisi ve koruyucusu" olarak çevrilen yer kelime meali olarak bakıldığında sadece yönetici kelimesi geçmektedir, bu tür sahtekarlıklar tüm Kur'an'da bulunmaktadır.</p>
 
         <blockquote style="font-size: 0.9em">
         Allah’ın insanlardan bir kısmını diğerlerine üstün kılmasına bağlı olarak ve mallarından harcama yapmaları sebebiyle <b>erkekler kadınların yöneticisi ve koruyucusudurlar.</b> Sâliha kadınlar Allah’a itaatkârdırlar. Allah’ın korumasına uygun olarak, kimsenin görmediği durumlarda da kendilerini korurlar. (Evlilik hukukuna) baş kaldırmasından endişe ettiğiniz kadınlara öğüt verin, onları yataklarda yalnız bırakın ve <b>onları dövün</b>. Eğer size itaat ederlerse artık onların aleyhine başka bir yol aramayın; çünkü Allah yücedir, büyüktür. (Nisa/34)
