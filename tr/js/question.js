@@ -227,7 +227,7 @@ let qdb = [{
         yüz kişi bulunursa, inkâr edenlerden bin kişiye galip gelirler. Çünkü onlar anlamayan bir kavimdir. (Enfal/65)
         </blockquote>
 
-        <p>Savaş yapılır ve kaybedilir. Ardından aşağıdaki ayet iner, yeni oran 1'e 2'dir. Peki Allah bu yenilgiyi önceden bilmiyor muydu da bu ayetler indi?</p>
+        <p>Savaş yapılır ve ağır kayıp verilir. Ardından aşağıdaki ayet iner, yeni oran 1'e 2'dir. Peki Allah bu durumu önceden bilmiyor muydu da bu ayetler indi?</p>
 
         <blockquote style="font-size: 0.9em">
         Şimdi ise, Allah yükünüzü hafifletti ve sizde muhakkak bir zaaf olduğunu bildi. Eğer içinizde sabırlı yüz kişi olursa iki yüz kişiye galip gelirler. 
