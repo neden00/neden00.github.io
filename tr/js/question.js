@@ -2,28 +2,32 @@ let qdb = [{
         "question": "İsteyen herkes iman edebilir.",
         "correct": false,
         "answer": `
-        <p>Muhammed Mekke'deyken, Mekkelileri ikna edemediği için aşağıdaki ayet inmiştir. Bahsedilen müşrikler daha sonra Mekke'nin fethiyle 
-        her nasılsa iman edenlere katılmıştır.</p>
-
         <blockquote style="font-size: 0.9em">
-        Onlardan seni Kur’an okurken dinleyenler de vardır. Fakat <b>onu anlamalarına engel olmak için kalplerinin üstüne örtüler çektik, kulaklarına da ağırlık verdik</b>. Onlar her türlü mûcizeyi görseler bile yine de ona inanmazlar. Hatta o kâfirler sana geldiklerinde, "Bu Kur’an eskilerin masallarından başka bir şey değildir" diyerek seninle tartışırlar. (En'am/25)
+        İstisnasız her peygamberi kendi kavminin diliyle gönderdik ki onlara açık açık anlatsın; bundan sonra Allah dilediğini sapkınlık içerisinde bırakır, dilediğini de doğru yola iletir. O, güçlüdür, hikmet sahibidir. (İbrahim/4)
         </blockquote>
 
         <blockquote style="font-size: 0.9em">
-        Sen onların doğru yola erişmelerine aşırı istek göstersen de şüphesiz Allah saptırdığı kimseyi doğru yola iletmez. Onların yardımcıları da yoktur. (Nahl/37)
+        Onlardan seni Kur’an okurken dinleyenler de vardır. Fakat <b>onu anlamalarına engel olmak için kalplerinin üstüne örtüler çektik, kulaklarına da ağırlık verdik.</b> Onlar her türlü mûcizeyi görseler bile yine de ona inanmazlar. Hatta o kâfirler sana geldiklerinde, "Bu Kur’an eskilerin masallarından başka bir şey değildir" diyerek seninle tartışırlar. (En'am/25)
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Sen onların doğru yola erişmelerine aşırı istek göstersen de şüphesiz <b>Allah saptırdığı kimseyi doğru yola iletmez.</b> Onların yardımcıları da yoktur. (Nahl/37)
         </blockquote>
         
         <blockquote style="font-size: 0.9em">
-        Allah kimi doğru yola iletmek isterse onun kalbini İslam'a açar; kimi de saptırmak isterse göğe çıkıyormuş gibi kalbini iyice daraltır. Allah inanmayanların üstüne işte böyle murdarlık verir. (En'am/125)
+        Allah kimi doğru yola iletmek isterse onun kalbini İslam'a açar; <b>kimi de saptırmak isterse göğe çıkıyormuş gibi kalbini iyice daraltır.</b> Allah inanmayanların üstüne işte böyle murdarlık verir. (En'am/125)
         </blockquote>
 
+        <blockquote style="font-size: 0.9em">
+        Allah'ın izni olmadıkça hiç kimse inanamaz. O, aklını kullanmayanlara kötü bir azab verir. (Yunus/100)
+        </blockquote>
         `
     },
     {
-        "question": "Kur'an'ın tamamı Allah'ın sözü müdür?.",
+        "question": "Kur'an'ın tamamı Allah'ın sözüdür.",
         "correct": false,
         "answer": `
-        <p>Sizce Allah'ın aşağıdaki gibi cümleler kurması mümkün müdür? Diyanet kimi yerde bu ayetleri parantezlerle kurtarmaya çalışmıştır ancak bizim incelememiz gereken Kur'an'ın kendisidir.</p>
+        <p>Diyanet'in eklediği parantezler, hiç de "kusursuz" olmayan Kur'an'ı kurtarma çabalarıdır.</p>
 
         <blockquote style="font-size: 0.9em">
         (De ki:) Şüphesiz ben size O’nun tarafından gönderilmiş bir uyarıcı ve müjdeleyiciyim. (Hud/2)
@@ -36,20 +40,6 @@ let qdb = [{
         <blockquote style="font-size: 0.9em">
         Allah ile beraber başka bir ilâh edinmeyin. Gerçekten ben, size, Allah tarafından gönderilmiş açık bir uyarıcıyım. (Zariyat/51)
         </blockquote>`
-    },
-    {
-        "question": "İslam şüphe edip, sorgulamaya açıktır.",
-        "correct": false,
-        "answer": `<p></p>
-
-        <blockquote style="font-size: 0.9em">
-        Hak (ancak) Rabbindendir. Artık, <b>sakın şüpheye düşenlerden olma!</b> (Bakara/147)
-        </blockquote>
-        
-        <blockquote style="font-size: 0.9em">
-        (De ki): Allah'dan başka bir hakem mi arayacağım? Halbuki size Kitab'ı açık olarak indiren O'dur. Kendilerine kitap verdiğimiz kimseler, Kur'an'ın gerçekten Rabbin tarafından indirilmiş olduğunu bilirler. Sakın şüpheye düşenlerden olma! (En'am/114)
-        <blockquote style="font-size: 0.9em">`
-        
     },
     {
         "question": "İslam hoşgörü dinidir.",
@@ -74,12 +64,26 @@ let qdb = [{
         </blockquote>`
     },
     {
+        "question": "İslam şüphe edip, sorgulamaya açıktır.",
+        "correct": false,
+        "answer": `<p></p>
+
+        <blockquote style="font-size: 0.9em">
+        Hak (ancak) Rabbindendir. Artık, <b>sakın şüpheye düşenlerden olma!</b> (Bakara/147)
+        </blockquote>
+        
+        <blockquote style="font-size: 0.9em">
+        (De ki): Allah'dan başka bir hakem mi arayacağım? Halbuki size Kitab'ı açık olarak indiren O'dur. Kendilerine kitap verdiğimiz kimseler, Kur'an'ın gerçekten Rabbin tarafından indirilmiş olduğunu bilirler. Sakın şüpheye düşenlerden olma! (En'am/114)
+        <blockquote style="font-size: 0.9em">`
+        
+    },
+    {
         "question": "İslam'da insanlar arasında eşitlik vardır.",
         "correct": false,
         "answer": `
-        <p>Alttaki ayetler diyanet mealinde "(bir zamanlar)" ile düzeltilmeye çalışılmıştır ancak orjinalinde ve diğer bir çok mealde böyle bir düzeltme yoktur. Zira kendini "apaçık" olarak niteleyen bir kitabın neden ek açıklamalara, tefsirlere ihtiyacı vardır? Ayrıca birbirinin tamamen aynısı iki ayetin indirilmesinin anlamı nedir? Allah bu ayeti indirdiğini unutmuş mudur?</p>
+        <p>Alttaki ayetler diyanet mealinde yine parantezler ile düzeltilmeye çalışılmıştır ancak orjinalinde ve diğer bir çok mealde böyle bir düzeltme yoktur. Zira kendini "apaçık" olarak niteleyen bir kitabın neden ek açıklamalara, tefsirlere ihtiyacı vardır? Orada bir zamanlar demek istese bile, bir insanın başka bir insana üstünlüğü nasıl söz konusu olabilir? </p>
 
-        <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken üstteki ayetler buna büyük bir tezattır.</p>
+        <p>Aynı zamanda İsrailoğulları (Yahudiler) ve Hristiyanlar yer yer lanetlenmiş, cehennemin en dibinde yakılmışken bu ayetler buna büyük bir tezattır.</p>
 
         <blockquote style="font-size: 0.9em">
         Ey İsrailoğulları! Size verdiğim nimetimi ve (bir zamanlar) sizi cümle âleme üstün kıldığımı hatırlayın. (Bakara/47)
@@ -96,10 +100,10 @@ let qdb = [{
     {
         "question": "İslam'da cinsiyet eşitliği vardır.",
         "correct": false,
-        "answer": `<p>Alttaki ayet parantez kullanılarak bir nebze düzeltilmeye çalışılmışsa da Kur'an kadının dövülmesine izin vermektedir.</p>
+        "answer": `<p>Alttaki ayet parantez kullanılarak bir nebze düzeltilmeye çalışılmışsa da Kur'an kadının dövülmesine izin vermektedir. Ayrıca yöneticisi ve koruyucusu olarak çevrilen yer kelime meali olarak bakıldığında sadece yönetici kelimesi geçmektedir.</p>
 
         <blockquote style="font-size: 0.9em">
-        Allah’ın insanlardan bir kısmını diğerlerine üstün kılmasına bağlı olarak ve mallarından harcama yapmaları sebebiyle <b>erkekler kadınların yöneticisi ve koruyucusudurlar.</b> Sâliha kadınlar Allah’a itaatkârdırlar. Allah’ın korumasına uygun olarak, kimsenin görmediği durumlarda da kendilerini korurlar. (Evlilik hukukuna) <b> baş kaldırmasından endişe ettiğiniz kadınlara öğüt verin, onları yataklarda yalnız bırakın ve onları dövün</b>. Eğer size itaat ederlerse artık onların aleyhine başka bir yol aramayın; çünkü Allah yücedir, büyüktür. (Nisa/34)
+        Allah’ın insanlardan bir kısmını diğerlerine üstün kılmasına bağlı olarak ve mallarından harcama yapmaları sebebiyle <b>erkekler kadınların yöneticisi ve koruyucusudurlar.</b> Sâliha kadınlar Allah’a itaatkârdırlar. Allah’ın korumasına uygun olarak, kimsenin görmediği durumlarda da kendilerini korurlar. (Evlilik hukukuna) baş kaldırmasından endişe ettiğiniz kadınlara öğüt verin, onları yataklarda yalnız bırakın ve <b>onları dövün</b>. Eğer size itaat ederlerse artık onların aleyhine başka bir yol aramayın; çünkü Allah yücedir, büyüktür. (Nisa/34)
         </blockquote>
 
         <blockquote style="font-size: 0.9em">
@@ -109,29 +113,27 @@ let qdb = [{
         <p>Kadınlar yalancı mıdır? Unutkan mıdır? Bu ayetin inme sebebi nedir? <br> Alttaki hadis de hem kadını hem Yahudileri kötü görmenin bir örneğidir.</p>
 
         <blockquote style="font-size: 0.9em">
-        Resulullah as buyurdular ki: “Biriniz sütresiz olarak namaz kılarsa (önün­den geçtiği takdirde) şunlar namazı bozar: eşek, domuz, yahudi, mecûsi, kadın. Namazın bozulmaması için onun önünden, bunların bir taş atımlık uzaktan geçmesi kifâyet eder.” <br> (Buhari, Salat 90, İlm 18, Ezan 161, Cezau's-Sayd 25; Müslim, Salat 254, (504); Muvatta, Kasru's-Sala)
+        Resulullah as buyurdular ki: “Biriniz sütresiz olarak (önünde bir nesne olmadan) namaz kılarsa (önün­den geçtiği takdirde) şunlar namazı bozar: eşek, domuz, yahudi, mecûsi, kadın. Namazın bozulmaması için onun önünden, bunların bir taş atımlık uzaktan geçmesi kifâyet eder.” <br> (Buhari, Salat 90, İlm 18, Ezan 161, Cezau's-Sayd 25; Müslim, Salat 254, (504); Muvatta, Kasru's-Sala)
         </blockquote>`
     },
     {
         "question": "Muhammed kendi geliniyle evlenmiştir.",
         "correct": true,
-        "answer": `
-        <p>Günlerden birgün Allah resulü, evlatlığı Zeyd'in evine gider ancak Zeyd o sırada evde değildir. Muhammed, Zeyd'in eşi (aynı zamanda Muhammed'in halasının kızı) Zeynep'i uygunsuz bir kıyafetle görür. Tabii aşık olur Peygamberimiz evlatlığının eşine.Gel zaman git zaman, yüreğindeki sevdayı bastıramaz gidip Zeynep'i eşi Zeyd'den ister. Zeyd ise çok zorlanarak da olsa eşini boşar ve Muhammed'le evlendiririr (Kaynak: Kütüb-i Sitte).<br>Bu kararında alttaki ayet de oldukça etkili olmuştur.</p>
+        "answer": `        
+        <blockquote style=\"font-size: 0.9em\">
+        Resulullah (sav), Zeyd (ra)'e: "Git onu bana (kendinden) iste" dedi. Zeyd gitti, Zeyneb'e geldiği zaman hamurunu yoğuruyordu. Zeyd der ki: "Onu gördüğüm zaman içimde bir zorluk hissettim, ona bakamaz hale geldim. Sırtımı ona çevirerek, geri geri yaklaştım ve: "Ey Zeyneb! Beni Resulullah (sav) gönderdi. Seni istiyor" dedim. (Kütübü Sitte)
+        </blockquote>
+
+        <p>Rivayetlere göre olayın gelişimi şöyle olmuştur: Günlerden birgün Allah resulü, evlatlığı Zeyd'in evine gider ancak Zeyd o sırada evde değildir. Muhammed, Zeyd'in eşi (aynı zamanda Muhammed'in halasının kızı) Zeynep'i uygunsuz bir kıyafetle görür. Tabii aşık olur Peygamberimiz evlatlığının eşine.Gel zaman git zaman, yüreğindeki sevdayı bastıramaz gidip Zeynep'i eşi Zeyd'den ister. Zeyd ise çok zorlanarak da olsa eşini boşar ve Muhammed'le evlendiririr.<br>Zeyd'in bu kararında alttaki ayet de oldukça etkili olmuştur.</p>
 
         <blockquote style=\"font-size: 0.9em\">
         Bir mümin erkek veya bir mümin kadının, Allah ve resulü bir emir ve hüküm verdiklerinde artık işlerinde bundan başkasını seçme hakları olamaz. Allah’ın ve resulünün emrine itaat etmeyenler doğru yoldan açıkça sapmışlardır. (Ahzab/36)
         </blockquote>
 
-        <p>
-        Çıkan dedikodular karşısında Muhammed'in evlatlıklarınızın eşleriyle evlenebileceğinizi göstermek için Zeyd'in eşi Zeynep ile evlendirildiğini 
-        söyleyen aşağıdaki ayet iniyor. 
-        </p>
+        <p>Çıkan dedikodular karşısında Muhammed'in evlatlıklarınızın eşleriyle evlenebileceğinizi göstermek için Zeyd'in eşi Zeynep ile evlendirildiğini söyleyen aşağıdaki ayet inmiştir.</p>
 
         <blockquote style=\"font-size: 0.9em\">
-        Hani Allah'ın nimet verdiği, senin de kendisine iyilik ettiğin kimseye: Eşini yanında tut, Allah'tan kork! diyordun. 
-        Allah'ın açığa vuracağı şeyi, insanlardan çekinerek içinde gizliyordun. Oysa asıl korkmana layık olan Allah'tır. 
-        Zeyd, o kadından ilişiğini kesince biz onu sana nikahladık ki evlatlıkları, karılarıyla ilişkilerini kestiklerinde 
-        (o kadınlarla evlenmek isterlerse) müminlere bir güçlük olmasın. Allah'ın emri yerine getirilmiştir. (Ahzab/37)
+        Hani Allah'ın nimet verdiği, senin de kendisine iyilik ettiğin kimseye: Eşini yanında tut, Allah'tan kork! diyordun. Allah'ın açığa vuracağı şeyi, insanlardan çekinerek içinde gizliyordun. Oysa asıl korkmana layık olan Allah'tır. Zeyd, o kadından ilişiğini kesince biz onu sana nikahladık ki evlatlıkları, karılarıyla ilişkilerini kestiklerinde (o kadınlarla evlenmek isterlerse) müminlere bir güçlük olmasın. Allah'ın emri yerine getirilmiştir. (Ahzab/37)
         </blockquote>`
     },
     {
@@ -150,23 +152,16 @@ let qdb = [{
 
         <p>Peki aslında zina ne derece engellenmiştir?</p>
 
-        <p>1. Zinanın ispatı için dört tane şahit olması gerekmektedir (Nisa/15). Zira Muhammed'in eşi Ayşe'de zina ile suçlanmış ama 
-        bu ayet dolayısıyla affedilmiştir. Peki sizce zina yapan birinin dört adet şahitle yakalanma ihtimali nedir?</p>
+        <p>1. Zinanın ispatı için dört tane şahit olması gerekmektedir (Nisa/15). Zira Muhammed'in eşi Ayşe'de zina ile suçlanmış ama bu ayet dolayısıyla affedilmiştir. Peki sizce zina yapan birinin dört adet şahitle yakalanma ihtimali nedir?</p>
 
-        <p>2. Dört adet eş (Nisa/3), sınırsız cariye (Nisa/3, Nisa/24) ve ücreti ödenme şartıyla geçici nikâh izni (Nisa/24) varken 
-        zinadan uzak durun demenin mantığı nedir?</p>
+        <p>2. Dört adet eş (Nisa/3), sınırsız cariye (Nisa/3, Nisa/24) ve ücreti ödenme şartıyla geçici nikâh izni (Nisa/24) varken zinadan uzak durun demenin mantığı nedir?</p>
 
         <blockquote style=\"font-size: 0.9em\">
-        Eğer, (velisi olduğunuz) yetim kızlar (ile evlenip onlar) hakkında adaletsizlik etmekten korkarsanız, (onları değil), size helâl olan (başka) 
-        kadınlardan ikişer, üçer, dörder olmak üzere nikâhlayın.[105] Eğer (o kadınlar arasında da) adaletli davranmayacağınızdan korkarsanız, 
-        o taktirde bir tane alın veya sahip olduğunuz (cariyeler) ile yetinin. Bu, adaletten ayrılmamanız için daha uygundur. (Nisa/3)
+        Eğer, (velisi olduğunuz) yetim kızlar (ile evlenip onlar) hakkında adaletsizlik etmekten korkarsanız, (onları değil), size helâl olan (başka) kadınlardan ikişer, üçer, dörder olmak üzere nikâhlayın.[105] Eğer (o kadınlar arasında da) adaletli davranmayacağınızdan korkarsanız, o taktirde bir tane alın veya sahip olduğunuz (cariyeler) ile yetinin. Bu, adaletten ayrılmamanız için daha uygundur. (Nisa/3)
         </blockquote>
         
         <blockquote style=\"font-size: 0.9em\">
-        Evli kadınlarla evlenmeniz de haram kılındı. Maliki bulunduğunuz cariyeler müstesna, bunlar, Allah'ın üzerinize farz kıldığı hükümlerdir. 
-        <b>Bunlardan başkasını, zinadan kaçınıp, iffetli olarak, mallarınızla istemeniz size helal kılındı. Onlardan faydalandığınıza mukabil, 
-        kararlaştırılmış olan mehirlerini verin</b>; kararlaştırılandan başka, karşılıklı hoşnud olduğunuz hususda size bir sorumluluk yoktur. 
-        Allah Bilen'dir, Hakim'dir. (Nisa/24) mehir: ücret
+        Evli kadınlarla evlenmeniz de haram kılındı. Maliki bulunduğunuz cariyeler müstesna, bunlar, Allah'ın üzerinize farz kıldığı hükümlerdir. <b>Bunlardan başkasını, zinadan kaçınıp, iffetli olarak, mallarınızla istemeniz size helal kılındı. Onlardan faydalandığınıza mukabil, kararlaştırılmış olan mehirlerini verin</b>; kararlaştırılandan başka, karşılıklı hoşnud olduğunuz hususda size bir sorumluluk yoktur. Allah Bilen'dir, Hakim'dir. (Nisa/24) (mehir: ücret)
         </blockquote>
         `
     },
@@ -193,7 +188,7 @@ let qdb = [{
         "question": "Muhammed ayı ikiye yarmıştır.",
         "correct": false,
         "answer": `
-        <p>O dönemdeki başka hiçbir kaynakta yer almayan, hiçbir dayanağı olmayan bu olay (şakk-ı kamer) Kur'an'da yer almaktadır.</p>
+        <p>O dönemdeki başka hiçbir kaynakta yer almayan, hiçbir dayanağı olmayan bu olay (şakk-ı kamer) sahih hadis kaynaklarında ve Kur'an'da yer almaktadır.</p>
 
         <blockquote style="font-size: 0.9em">
         Kıyamet yaklaştı ve ay yarıldı. (Kamer/1)
@@ -213,7 +208,7 @@ let qdb = [{
         Yeri de biz döşedik. Biz ne güzel döşeyiciyiz.! (Zariyat/48)
         </blockquote>
 
-        <p>Peki ilk ayet bir mucize ise, ikinci ayette de yeryüzünün genişlediğini söylemiyor mu? Bu argüman karşısında ise diyanet ayetin mealini değiştirme yoluna gitmiştir.</p>
+        <p>Peki ilk ayet bir mucize ise, ikinci ayette de yeryüzünün genişlediğini söylemiyor mu? Bu argüman karşısında ise diyanet ayetin mealini değiştirme yoluna gitmiştir. Değiştirilemeyen Kur'an'ın mealiyle nasıl da kolay oynanıyor değil mi?/p>
         
         <blockquote style="font-size: 0.9em">
         Göğü kudretimizle biz kurduk ve şüphesiz bizim (her şeye) gücümüz yeter. (Zariyat/47 Yeni Diyanet Meali)
@@ -223,8 +218,7 @@ let qdb = [{
         "question": "Kur'an'da Allah yanılmıştır.",
         "correct": true,
         "answer": `
-        <p>Aşağıdaki ayetlerin ilki Uhud savaşından önce inmiş, önceki kitaplarda olduğu gibi savaşta Allah'ın inanlara yardım edeceğini bildirmiştir. 
-        Bu yardımla inananların 1'e 100 oranında üstün olduğu belirtilir.</p>
+        <p>Aşağıdaki ayetlerin ilki Uhud savaşından önce inmiş, savaşta Allah'ın inanlara yardım edeceğini bildirmiştir. Bu yardımla inananların 1'e 100 oranında üstün olduğu belirtilmiştir.</p>
 
         <blockquote style="font-size: 0.9em">
         Ey Peygamber! Mü’minleri savaşa teşvik et. Eğer içinizde sabırlı yirmi kişi bulunursa, iki yüz kişiye galip gelirler. Eğer içinizde (sabırlı) 
@@ -237,13 +231,12 @@ let qdb = [{
         Şimdi ise, Allah yükünüzü hafifletti ve sizde muhakkak bir zaaf olduğunu bildi. Eğer içinizde sabırlı yüz kişi olursa iki yüz kişiye galip gelirler. 
         Eğer içinizde (sabırlı) bin kişi olursa, Allah’ın izniyle iki bin kişiye galip gelirler. Allah, sabredenlerle beraberdir. (Enfal/66)
         </blockquote>`
-
     },
     {
         "question": "Ejderhalar gerçektir.",
         "correct": false,
-        "answer": `<p></p>
-
+        "answer": `<p>Çin ve Asya mitolojilerinde yer alan bu hayali yaratık Kur'an'da gerçek bir şeymiş gibi kullanılmıştır.</p>
+        
         <blockquote style="font-size: 0.9em">
         Bunun üzerine Mûsâ, asasını yere attı. Bir de ne görsünler, apaçık bir ejderha. (Araf/107)
         </blockquote>`
@@ -251,7 +244,7 @@ let qdb = [{
     {
         "question": "Kur'an köleliği yasaklar.",
         "correct": false,
-        "answer": `<p>Eklenecek.</p>
+        "answer": `<p></p>
 
         <blockquote style="font-size: 0.9em">
         </blockquote>`
@@ -268,19 +261,56 @@ let qdb = [{
     {
         "question": "Kur'an düşünme organı olan beyinden bahseder.",
         "correct": false,
-        "answer": `<p>Kur'an, beyinden hiç bahsetmez; düşünme, inanma, sorgulama, şüphelenme yetilerinin hepsinin kalp ile yapıldığını söyler. Böyle bir şey olmadığını günümüzde pek iyi biliyoruz.</p>
+        "answer": `<p>Kur'an, beyinden hiç bahsetmez; düşünme, inanma, sorgulama, şüphelenme yetilerinin hepsinin kalp ile yapıldığını söyler.</p>
 
         <blockquote style="font-size: 0.9em">
-        O (insan), atılan bir sudan yaratıldı. O su, bel (omurga) ve göğüs kafesi arasından çıkar. (Tarık/6-7)
-        </blockquote>`
+        Yeryüzünde gezip dolaşmadılar mı ki, düşünecek kalpleri, işitecek kulakları olsun? [...](Hac/46)
+        </blockquote>
+        
+        <blockquote style="font-size: 0.9em">
+        Onlar Kur’an’ı düşünmüyorlar mı? Yoksa kalplerin üzerinde kilitleri mi var? (Muhammed/24)
+        </blockquote>
+
+        `
     },
     {
         "question": "Cuma namazı erkeklere farzdır.",
         "correct": false,
-        "answer": `<p>Çoğu kesim tarafından öyle kabul edilse de Kur'an'da cuma namazıyla ilgili tek ifade alttakidir.</p>
+        "answer": `<p>Çoğu kesim tarafından öyle kabul edilse de Kur'an'da cuma namazıyla ilgili tek ifade alttakidir. Pek de apaçık bir ayet değil değil mi?</p>
 
         <blockquote style="font-size: 0.9em">
         Ey iman edenler! Cuma günü namaz için çağrı yapıldığı zaman, hemen Allah’ın zikrine koşun ve alışverişi bırakın. Eğer bilirseniz bu, sizin için daha hayırlıdır. (Cuma/9)
         </blockquote>`
+    },
+    {
+        "question": "Her canlı çift yaratılmıştır.",
+        "correct": false,
+        "answer": `<p>Kur'an'da geçen bu bilginin yanlışlığı kesin ve nettir.</p>
+
+        <blockquote style="font-size: 0.9em">
+        Düşünüp ibret alasınız diye her şeyden (erkekli dişili) iki eş yarattık. (Zariyat/49)
+        </blockquote>`
+    },
+    {
+        "question": "İslam doğru yoldur.",
+        "correct": false,
+        "answer": `
+        <blockquote style="font-size: 0.9em">
+        Böylece biz Kur’an’ı apaçık âyetler hâlinde indirdik. Şüphesiz Allah, dilediğini doğru yola iletir. (Hac/16)
+        </blockquote>
+
+        <p>Apaçık ve kusursuz olması gereken Kur'an'da en ufak bir neden bile hatalı olduğunu kabul etmeye yetecekken bunca saçma, yanlış, ayrımcı ayet İslam'ın doğru yol olmadığını net bir şekilde gözler önüne serer.</p>
+
+        <p>Ayetlerden ayrı olarak apaçık olan Kur'an'ın sünnet ve hadisler olamadan hiçbir şey ifade etmemesi ve sünnet, hadislerde güvenilir olarak kabul edilen kaynaklarda bile saçma hadislerin olması ya da nelerin güvenilir olduğuna nasıl karar vereceğimiz sorunu da inanmamak için yeterli bir sebeptir. </p>
+        `
+    },
+    {
+        "question": "İslam doğru yoldur.",
+        "correct": false,
+        "answer": `
+        <p>1. Kur'an tanrı sözü değildir.</p>
+        <p>2. Mealciler sahtekardır, işlerine gelen yerleri çevirmeden bırakırlar, işerine gelen yerlere parantez eklerler, işlerine gelen yerlere paranteze bile ihtiyaç duymadan kendi kelimelerini eklerler.</p>
+        <p>3. Yıllardır Türkiye'de siyasetçilerin önemli bir dayanağı olan İslam dini, Kur'an, Ümmet kavramları; ezanlarımızı susturamayacaklar, camilerimize dokunamayacaklar söylemleri tıpkı bunları kullanarak halkı soyanlar, devleti milyarca lira zarara uğratanlar, bir yüzükten günümüzdeki koca servetine ulaşanlar gibi sahtekardır, sahtekarlık ürünüdür.</p>
+        `
     }
 ]
