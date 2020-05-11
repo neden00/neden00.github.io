@@ -298,12 +298,31 @@ let qdb = [{
         `
     },
     {
-        "question": "İslam doğru yoldur.",
-        "correct": false,
+        "question": "Sonuç?",
+        "correct": true,
         "answer": `
         <p>1. Kur'an tanrı sözü değildir.</p>
-        <p>2. Mealciler sahtekardır, işlerine gelen yerleri çevirmeden bırakırlar, işerine gelen yerlere parantez eklerler, işlerine gelen yerlere paranteze bile ihtiyaç duymadan kendi kelimelerini eklerler.</p>
-        <p>3. Yıllardır Türkiye'de siyasetçilerin önemli bir dayanağı olan İslam dini, Kur'an, Ümmet kavramları; ezanlarımızı susturamayacaklar, camilerimize dokunamayacaklar söylemleri tıpkı bunları kullanarak halkı soyanlar, devleti milyarca lira zarara uğratanlar, bir yüzükten günümüzdeki koca servetine ulaşanlar gibi sahtekardır, sahtekarlık ürünüdür.</p>
+        <p>2. Mealciler, imamlar, televizyonlarda boy boy dizilen din adamları sahtekardır. Bunların ülkenin parasını yemesine, bizi ortadoğu bataklığına çekmelerine, halk içinde öfke ve kutuplaşmaya neden olmalarına göz yumulamaz.</p>
+        <p>3. Yıllardır Türkiye'de siyasetçilerin önemli bir dayanağı olan İslam, Kur'an, ümmet kavramları; ezanlarımızı susturamayacaklar, camilerimize dokunamayacaklar söylemlerinin ülkeyi getirdiği nokta bellidir. Bunları kullanarak halkı soyanlar, devleti zarara uğratanlar, gemicik filoları kuranlar, yolsuzluk tapeleri ortaya çıkanlar, vergilerle halktan alıp kendilerine verenler adidir, sahtekardır. Bir vatansever olarak  ülkenin daha iyi yerlere gelmesinin en önemli yolu akılcı ve bilimsel düşünce sistemidir. Laik ve hukuka dayalı bir ülke gelişmemizin tek yoludur.</p>
+        `
+    },
+    {
+        "question": "Asrın ötesinde bir lider Gazi Mustafa Kemal Paşa'dan alıntılar...",
+        "correct": true,
+        "answer": `
+        <blockquote style="font-size: 0.9em">
+        Türkler İslâm dinini kabul etmeden evvel de büyük bir millet idi. Bu dini kabul ettikten sonra, bu din, ne Arapların, ne aynı dinde bulunan Acemlerin ve ne de sairenin Türklerle birleşip bir millet teşkil etmelerine tesir etmedi. Bilâkis, Türk milletinin millî bağlarını gevşetti; millî hislerini, millî heyecanını uyuşturdu. Bu pek tabiî idi. Çünkü Muhammed'in kurduğu dinin gayesi, bütün milliyetlerin fevkinde, şamil bir Arap milliyeti siyasetine müncer oluyordu. [...]
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Benim bir dinim yok ve bazen bütün dinlerin denizin dibini boylamasını istiyorum. Hükümetini ayakta tutmak için dini kullanmaya gerek duyanlar zayıf yöneticilerdir. Âdetâ halkı bir kapana kıstırırlar. [...] Herkes kendi vicdanının sesini dinler. Ama bu davranış ne sağduyulu mantıkla çelişmeli ne de başkalarının özgürlüğüne karşı çıkmasına yol açmalıdır.
+        </blockquote>
+
+        <blockquote style="font-size: 0.9em">
+        Artık Türkiye, din ve şeri'at oyunlarına sahne olmaktan çok yüksektir. Bu gibi oyuncular varsa kendilerine başka taraflarda sahne arasınlar.
+        </blockquote>
+
+        <p>Saygı, sevgi ve özlemle Atamızı anıyor ve daha fazlasına ulaşabileceğiniz bu bağlantıyı bırakıyorum. <br> <a href="https://tr.wikiquote.org/wiki/Mustafa_Kemal_Atat%C3%BCrk/Din" target="_blank">Mustafa Kemal Atatürk/Din</a></p>
         `
     }
 ]
