@@ -235,15 +235,6 @@ let qdb = [{
         </blockquote>`
     },
     {
-        "question": "Ejderhalar gerçektir.",
-        "correct": false,
-        "answer": `<p>Çin ve Asya mitolojilerinde yer alan bu hayali yaratık Kur'an'da gerçek bir şeymiş gibi kullanılmıştır.</p>
-        
-        <blockquote style="font-size: 0.9em">
-        Bunun üzerine Mûsâ, asasını yere attı. Bir de ne görsünler, apaçık bir ejderha. (Araf/107)
-        </blockquote>`
-    },
-    {
         "question": "Kur'an köleliği yasaklar.",
         "correct": false,
         "answer": `<p></p>
@@ -316,3 +307,14 @@ let qdb = [{
         `
     }
 ]
+
+var temp =[
+    {
+        "question": "Ejderhalar gerçektir.",
+        "correct": false,
+        "answer": `<p>Çin ve Asya mitolojilerinde yer alan bu hayali yaratık Kur'an'da gerçek bir şeymiş gibi kullanılmıştır.</p>
+        
+        <blockquote style="font-size: 0.9em">
+        Bunun üzerine Mûsâ, asasını yere attı. Bir de ne görsünler, apaçık bir ejderha. (Araf/107)
+        </blockquote>`
+    }]
