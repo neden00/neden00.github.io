@@ -278,7 +278,7 @@ let qdb = [{
     {
         "question": "Her canlı çift yaratılmıştır.",
         "correct": false,
-        "answer": `<p>Kur'an'da geçen bu bilginin yanlışlığı kesin ve nettir.</p>
+        "answer": `<p>Kur'an'da geçen bu bilginin yanlışlığı kesin ve nettir. Bakteriler, virüsler hatta bazı çok hücreliler eşeysiz olarak üreyebilmekte, yani karşı cinse ihtiyaç duymamaktadır. Ve bu türlerin bir kısmında karşı cins diye bir şey yoktur.</p>
 
         <blockquote style="font-size: 0.9em">
         Düşünüp ibret alasınız diye her şeyden (erkekli dişili) iki eş yarattık. (Zariyat/49)
