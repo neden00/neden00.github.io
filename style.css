@@ -1,0 +1,130 @@
+:root {
+  --container-bg-color: #333;
+  --left-bg-color: rgba(0, 0, 0, .6);
+  --left-bg-focus-color: rgba(0, 0, 0, .2);
+  --left-bg-dim-color: rgba(0, 0, 0, .8);
+  --right-bg-color: rgba(0, 0, 0, .6);
+  --right-bg-focus-color: rgba(0, 0, 0, .2);
+  --right-bg-dim-color: rgba(0, 0, 0, .8);
+  --hover-width: 75%;
+  --other-width: 25%;
+  --speed: 1000ms;
+}
+
+html, body {
+  padding:0;
+  margin:0;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 4rem;
+  color: #fff;
+  position: absolute;
+  text-align: center;
+  text-anchor: middle;
+  white-space: nowrap;
+}
+
+.left > h1{
+  left:99%;
+  top:50%;
+  transform: translateX(-100%) translateY(-50%);
+}
+
+.right > h1{
+  left:1%;
+  top:50%;
+  transform: translateX(0%) translateY(-50%);
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: var(--container-bg-color);
+}
+
+.split {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.split.left {
+  left:0;
+  background: url(img/turkish.svg) center center no-repeat;
+  background-size: cover;
+}
+
+.split.left:before{
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: var(--left-bg-color);
+}
+
+.split.right {
+  right:0;
+  background: url(img/english.svg) center center no-repeat;
+  background-size: cover;
+}
+
+.split.right:before{
+  position: absolute;
+  content: "";
+  width: 100%;
+  height: 100%;
+  background: var(--right-bg-color);
+}
+
+.split.left, .split.right, .split.left:before, .split.right:before {
+  transition: var(--speed) all ease-in-out;
+}
+
+.hover-left .left {
+  width: var(--hover-width);
+}
+
+.hover-left .right {
+  width: var(--other-width);
+}
+
+.hover-left .left:before{
+  background: var(--left-bg-focus-color);
+}
+
+.hover-left .right:before{
+  z-index: 2;
+  background: var(--right-bg-dim-color);
+}
+
+.hover-right .right {
+  width: var(--hover-width);
+}
+
+.hover-right .left {
+  width: var(--other-width);
+}
+
+.hover-right .right:before{
+  background: var(--right-bg-focus-color);
+}
+
+.hover-right .left:before{
+  z-index: 2;
+  background: var(--left-bg-dim-color);
+}
+
+@media(max-width: 800px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
