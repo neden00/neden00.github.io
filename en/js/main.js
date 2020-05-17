@@ -8,8 +8,8 @@ function Answer(ans) {
     document.getElementById("trueBtn").setAttribute("disabled", true);
     document.getElementById("falseBtn").setAttribute("disabled", true);
 
-    var txt = "Cevap: <span class=\"";
-    txt += q.correct ? "green-text\">Doğru</span>" : "red-text\">Yanlış</span>";
+    var txt = "Correct Answer: <span class=\"";
+    txt += q.correct ? "green-text\">True</span>" : "red-text\">False</span>";
     document.getElementById("correct").innerHTML = txt;
     document.getElementById("correct").className = document.getElementById("correct").className.replace(" text-green", "text-red");
     document.getElementById("correct").className = document.getElementById("correct").className.replace(" hide", "");
