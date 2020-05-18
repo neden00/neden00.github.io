@@ -8,7 +8,7 @@ function Answer(ans) {
     document.getElementById("trueBtn").setAttribute("disabled", true);
     document.getElementById("falseBtn").setAttribute("disabled", true);
 
-    var txt = "Cevap: <span class=\"";
+    var txt = "Doğru Cevap: <span class=\"";
     txt += q.correct ? "green-text\">Doğru</span>" : "red-text\">Yanlış</span>";
     document.getElementById("correct").innerHTML = txt;
     document.getElementById("correct").className = document.getElementById("correct").className.replace(" text-green", "text-red");
