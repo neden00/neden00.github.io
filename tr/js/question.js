@@ -132,7 +132,7 @@ let qdb = [{
         
         <blockquote style=\"font-size: 0.9em\">
         Zina eden kadın ve erkeğin her birine yüzer değnek vurun. Allah'a ve ahiret gününe inanıyorsanız, Allah'ın dini konusunda o ikisine acımayın. 
-        Onların ceza görmesine, i<nananlardan bir topluluk da şahit olsun. (Nur/2)
+        Onların ceza görmesine, inananlardan bir topluluk da şahit olsun. (Nur/2)
         </blockquote>
 
         <p>Peki aslında zina ne derece engellenmiştir?</p>
