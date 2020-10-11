@@ -85,7 +85,7 @@ let qdb = [{
         "question": "İslam'da kadın erkek eşitliği vardır.",
         "correct": false,
         "answer": `
-        <p>Alttaki ayet parantez kullanılarak bir nebze düzeltilmeye çalışılmışsa da Kur'an kadının dövülmesine izin vermektedir. Ayrıca "yöneticisi ve koruyucusu" olarak çevrilen yer kelime meali olarak bakıldığında sadece yönetici kelimesi geçmektedir, bu tür sahtekarlıklar tüm Kur'an'da bulunmaktadır.</p>
+        <p>Alttaki ayet parantez kullanılarak bir nebze düzeltilmeye çalışılmışsa da Kur'an kadının dövülmesine izin vermektedir. Ayrıca "yöneticisi ve koruyucusu" olarak çevrilen yer kelime meali olarak bakıldığında sadece yönetici kelimesi geçmektedir.</p>
 
         <blockquote style="font-size: 0.9em">
         Allah’ın insanlardan bir kısmını diğerlerine üstün kılmasına bağlı olarak ve mallarından harcama yapmaları sebebiyle <b>erkekler kadınların yöneticisi ve koruyucusudurlar.</b> Sâliha kadınlar Allah’a itaatkârdırlar. Allah’ın korumasına uygun olarak, kimsenin görmediği durumlarda da kendilerini korurlar. (Evlilik hukukuna) baş kaldırmasından endişe ettiğiniz kadınlara öğüt verin, onları yataklarda yalnız bırakın ve <b>onları dövün</b>. Eğer size itaat ederlerse artık onların aleyhine başka bir yol aramayın; çünkü Allah yücedir, büyüktür. (Nisa/34)
